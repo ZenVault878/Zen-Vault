@@ -14,7 +14,7 @@ Project Structure
 The project is organized as follows:
 
 bash
-复制代码
+
 ZenVault/
 ├── README.md          # Project documentation
 ├── index.html         # Main frontend file
@@ -65,7 +65,7 @@ console.log(webhooks);
 Installation
 Clone the repository:
 bash
-复制代码
+
 git clone https://github.com/your-username/ZenVault.git
 cd ZenVault
 Install dependencies (if applicable).
